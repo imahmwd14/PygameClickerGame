@@ -12,6 +12,7 @@ rect_width = width * 0.1
 rect_height = width * 0.1
 
 screen = pygame.display.set_mode(size)
+pygame.display.set_caption("Mahmoud Darwish | simple clicker game")
 
 score = 0
 
